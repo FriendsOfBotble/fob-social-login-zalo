@@ -1,0 +1,14 @@
+{
+    "id": "friendsofbotble/social-login-zalo",
+    "name": "Social Login Zalo",
+    "namespace": "FriendsOfBotble\\SocialLogin\\Zalo\\",
+    "provider": "FriendsOfBotble\\SocialLogin\\Zalo\\Providers\\SocialLoginZaloServiceProvider",
+    "author": "FriendsOfBotble",
+    "url": "https://github.com/FriendsOfBotble/social-login-zalo",
+    "version": "1.0.0",
+    "minimum_core_version": "7.1.0",
+    "description": "Support Zalo login for Botble CMS",
+    "require": [
+        "social-login"
+    ]
+}
